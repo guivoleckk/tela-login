@@ -1,1 +1,1 @@
-# Pequeno projeto de tela do login com validação simples utilizando o JavaScript.
+# Projeto simples utilizando javascript para simular uma tela de login. Feito somente para treinar os conceitos e colocar em prática os aprendizados.
